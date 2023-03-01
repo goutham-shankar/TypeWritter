@@ -8,7 +8,7 @@ function classNames(...classes) {
 export default function Tabs() {
   let [categories] = useState({
    
-    Whats_New: [
+    WhatsNew: [
       {
         id: 1,
         title: 'Ask Me Anything: 10 answers to your questions about coffee',
