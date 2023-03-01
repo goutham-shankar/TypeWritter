@@ -1,12 +1,13 @@
-
+import Scrollcards from './Components/scrollcards';
 
 function App() {
   return (
-    <div className="bg-slate-900">
-      <a className="">asdad</a>
 
-
+    <div>
+      <div className=' my-48'></div>
+      <Scrollcards />
     </div>
+
   );
 }
 
