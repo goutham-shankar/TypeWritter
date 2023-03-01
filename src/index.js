@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import Navbar from './Components/Navbar';
 import Tabs from './Components/Tabs';
+import Subscibe from './Components/subscibe';
+import Footer from './Components/Footer';
 
 
 
@@ -13,7 +15,8 @@ root.render(
     <Navbar />
     <App />
     <Tabs />
-
+    <Subscibe />
+    <Footer />
 
 
   </React.StrictMode>

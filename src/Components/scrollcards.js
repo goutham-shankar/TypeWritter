@@ -12,7 +12,6 @@ function Scrollcards() {
                     <div
                         class="flex flex-nowrap lg:ml-40 md:ml-20 ml-10  scrollbar-hidden "
                     >
-
                         <div class="inline-block px-3">
                             <div
                                 class=" w-auto h-auto  overflow-hidden rounded-lg shadow-md bg-white hover:shadow-xl transition-shadow duration-300 ease-in-out shadow-white"
